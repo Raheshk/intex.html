@@ -1,0 +1,8 @@
+.app-main{
+    display: flex;
+    flex-direction: row;
+}
+.app.selector{
+    width: 20vw;
+    background-color: antiquewhite;
+}

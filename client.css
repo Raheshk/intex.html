@@ -1,0 +1,54 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.dasbord {
+  background-color: aqua;
+}
+a {
+  text-decoration: none;
+}
+.mainclass {
+  display: flex;
+  flex-direction: row;
+}
+.app-sidebar {
+  width: 20vw;
+  background-color: aqua;
+}
+li {
+  padding: 20px;
+}
+ol {
+}
+div header {
+  padding: 20px;
+}
+h {
+  width: 230px;
+  height: 34px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Inter;
+  font-size: 28px;
+  font-weight: 500;
+  line-height: 33.89px;
+}
+h5 {
+  background: #000000;
+  background: #7b7b7b;
+  background: #1c1b1f;
+  background: #d9d9d957;
+  background: #f4f4f4;
+}
+tr,
+td {
+  width: 1170px;
+  height: 213px;
+  top: 167px;
+  left: 245px;
+  border-radius: 4px 0px 0px 0px;
+  border: 1px 0px 0px 0px;
+  opacity: 0px;
+  border: 1px solid #d9d9d957;
+}
